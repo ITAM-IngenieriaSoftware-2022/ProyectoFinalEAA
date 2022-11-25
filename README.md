@@ -32,6 +32,8 @@ La aplicacion usa una arquitectura de microservicios, ya que se ofrecen varias f
  Usamos una metodologia agile porque nuestro producto debe adpatarse facil y rapidamente a cambios en el entorno. Para nosotros es importamte centrarnos en el usuario y otorgar una aplicacion que funcione y adapte con rapidez, ademas que sea flexible ante inconvenientes. Aprovechando que nuestro grupo de trabajo es chico (tres personas) quizimos aprovechar al maximo las iteraciones, que fueron cortas, es decir, definimos las funcionalidades deseadas y las fuimos creando y sumando a lo ya creado. De esat forma fuimos actualizando el producto poco a poco y llegamos a un resulktado final satisfactorio, esto no lo hubieramos logrado sino hubieramos detectado y arreglado defectos de forma rapida.
 ### Codigo <br />
 https://drive.google.com/drive/folders/1dG29UabpFi7cyTS6EUVVgZrx902mTFyq?usp=sharing
+
+https://github.com/ITAM-IngenieriaSoftware-2022/ProyectoFinalEAA/blob/main/Codigo.md
 ### Documentacion para replicar
 
 ### Propuesta economica
