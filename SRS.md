@@ -2,7 +2,7 @@
 <ol type="1">
   <li>Introduccion</li>
   <li>Descripcion general</li>
-  <li>Requerrimientos exteriores</li>
+  <li>Requerrimientos externos</li>
   <li>Funcionalidades del sistema</li>
   <li>Otros requerrimientos no funcionales</li>
 </ol>
@@ -81,3 +81,23 @@ Multimedia: Contiene la id del multimedia, su nombre, su link junto con la id de
   <li>Supuestos y dependencias</li>
  Esta aplicación no esta asociada con el ITAM, los cursos son impartidos por alumnos en salones previamente pedidos a la institución.
 </ul>
+
+## 3. Requerrimientos externos
+3.1 User interface <br />
+3.2 Hardware interfaces: <br />
+  Se utiliza solamente una computadora para un host temporal local con las siguientes especificaciones: <br />
+  ![Imagen2](https://user-images.githubusercontent.com/116897605/203908193-35312aa2-beea-461b-8b39-b940da81972c.png)
+<br />
+3.4 Softwate interface <br />
+HOST: AWS Lambda <br />
+Lenguaje: Django versión 2.1 <br />
+IDE: Visual Studio Code versión 1.73 <br />
+Ejecutable: Google Chrome o Cualquier navegador <br />
+3.5 Communiaction interface: <br />
+Se utiliza una conexión desde Visual Studio Code hacia el navegador predeterminado del usuario para empezar a correr la aplicación. Además todas las solicitudes hacia la aplicación para ver cursos y agregar cursos los maneja los servicios de Amazon (AWS) <br />
+
+## 4. Funcionalidades del sistema
+
+
+
+  
