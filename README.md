@@ -11,7 +11,7 @@ Caso de uso para inicio de sesion:
 
 ### Plan de calidad
 Nuestro plan de calidad se basa en la norma IEEE 829 (aprobacion pendiente), esto porque buscamos garantizar a nuestros clientes productos de alta calidad y al mismo tiempo atender sus necesidades.
-pon aqui documento
+https://github.com/ITAM-IngenieriaSoftware-2022/ProyectoFinalEAA/blob/main/Calidad.md
 
 ### Arquitectura:
 La aplicacion usa una arquitectura de microservicios, ya que se ofrecen varias funcionalidades que operan de forma independiente y cada una va a ir desarrollandose. De esta forma nos perimitimos una fragmentacion que nos da claras ventajas.
