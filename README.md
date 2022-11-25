@@ -6,7 +6,9 @@ Esta aplicacion fue desarrollada para poder optimizar la forma en la que se dan 
 <br />
 
 ### Mostramos tres casos de uso: <br />
-Caso de uso para inicio de sesion: <br />Caso de uso para subir multimedia: <br /> Caso de uso para inscribirte a asesorias: <br />
+Caso de uso para inicio de sesion:
+![IMG-0246](https://user-images.githubusercontent.com/116897605/203902085-fad0031e-f9a2-4a26-a759-155332abfe08.jpg)
+<br /> Caso de uso para subir multimedia: <br /> Caso de uso para inscribirte a asesorias: <br />
 
 ### Plan de calidad
 Nuestro plan de calidad se basa en la norma ISO 9001 (aprobacion pendiente), esto porque buscamos garantizar a nuestros clientes productos de alta calidad y al mismo tiempo atender sus necesidades.
