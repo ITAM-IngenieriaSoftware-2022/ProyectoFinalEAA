@@ -36,6 +36,11 @@ https://drive.google.com/drive/folders/1dG29UabpFi7cyTS6EUVVgZrx902mTFyq?usp=sha
 https://github.com/ITAM-IngenieriaSoftware-2022/ProyectoFinalEAA/blob/main/Codigo.md
 ### Documentacion para replicar
 
+Entrar a link <br />
+Ingresar nombre de usuario y contrasena <br />
+Escoger modalidad de asesor o estudiante <br />
+Crear cursos o inscribirse a cursos <br />
+
 ### Propuesta economica
 ![costos](https://user-images.githubusercontent.com/116897605/203984228-54516fe9-41c4-4fe8-a433-edab68a39cab.jpg)
 
