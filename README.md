@@ -1,5 +1,5 @@
 # ProyectoFinalEAA
-## Proyecto Final de la materia de Ingenieria de Software <br /> 
+## Proyecto Final de la materia de Ingenieria de Software del grupo SkyHunters <br /> 
 ### Creadores: Alejandro Fuentes, Esteban y Alan
 Esta aplicacion fue desarrollada para poder optimizar la forma en la que se dan y reciben asesorias en el ITAM. Los alumnos y ex-alumnos del ITAM podran interactuar en esta plataforma de tal forma que cualquier usuario pueda dar y recibir asesorias sobre cualquier mateira que imparte el ITAM. El usuario puede tanto fijar un precio para las asesorias que va a dar, tambien podra subir material educativo para los que tomen su curso y desde su misma cuenta puede inscribirse a asersorias impartidas por otros alumnos. <br />
 ### Los requerrimientos de software estan en el siguiente archivo: <br />[Srs.docx](https://github.com/Alefuecam/IS-Final/files/10088038/Srs.docx)
