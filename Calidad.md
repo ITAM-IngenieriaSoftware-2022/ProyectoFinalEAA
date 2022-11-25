@@ -23,11 +23,17 @@ Vamos a probar las siguientes funcionalidades y que interactuen de forma correct
   <li>Inscripcion a cursos</li>
   Multiples altas
 </ol>
+
 ## 5. Features not to be tested
+
 La funcionalidad el pago no sera probada <br />
+
 ## 6. Approach
+
 Usaremos pruebas de regresion que  nos permite acceso a la documentacion de estructuras de datos internas y a los algoritmos utilizados. Este metodo nos va a permitir identificar errores rapidamente. Dados ciertos datos de arranque vamos a monitorear el estado de proyecto en cada etapa hasta que lleguemos a outputs deseados. Ademas haremos pruebas de regresion cada vez que hagamos cambios, probaremos as clases y sus metodos asi como cada boton, esto inmediatamente despues de que este listo. Es decir, no vamos a esperar a que eset toda la aplicacion lista, sino que haremos pruebas modulares, pues de esta forma sabremos que parte de la aplicacion falla y en que momento. Al final haremos pruebas globales, pero solo si los componentes estan fucnionando. En ningun caso seguiremos avanzando si no corre algun cacho del codigo sin importar que ese cacho del codigo no afecte a otras partes, esto porque no queremos que se acumulen errores ni que nos sea complicado encontralos. <br /> 
+
 ## 7. Item pass/fail criteria
+
 Toda funcionalidad recibira una calificacion discreta del 1 al 3, 1 siendo que no cumple, 2 siendo satisfactorio y 3 listo para entrega. Se pone atencion a que la funcionalidad corra y sea rapida, si corre pero tarda sera un 2 si no cumple ninguna sera un 1. 
 <ul>
   <li>Inicio de sesion</li>
@@ -65,5 +71,5 @@ Esteban se encargo de probar el inicio de sesion, Alejandro se encargo de que lo
 ## 13. Staffing and training needs
 El equipo ya contaba con las habilidades necesarias para hacer las pruebas
 ## 14.Schedule
-## Risks and contingencies
+## 15. Risks and contingencies
 Los riesgos son en su mayoria de mal uso de la aplicacion, como subir contenido inapropiado o falso. Riesgos internos son que elinicio de sesion falle y puedas entrar a la cuenta de otros usarios, tambien existe el riesgo de que el pago no se efectue. 
