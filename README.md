@@ -37,3 +37,6 @@ https://github.com/ITAM-IngenieriaSoftware-2022/ProyectoFinalEAA/blob/main/Codig
 ### Documentacion para replicar
 
 ### Propuesta economica
+![costos](https://user-images.githubusercontent.com/116897605/203984228-54516fe9-41c4-4fe8-a433-edab68a39cab.jpg)
+
+
