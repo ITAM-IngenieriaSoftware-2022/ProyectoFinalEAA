@@ -44,8 +44,24 @@
   <li>Funcionalidades</li>
   <ol>
     <li>Inicio de sesion</li>
-    dd
-    <li></li>
+    Se necesita un nombre de usuario y contrasena,<br /> 
+    con esto basta para darse de alta y acceder <br />
+    a la aplicacion.
+    <li>Crear asesoria</li>
+    Si buscas compartir tus conocimientos puedes dar de alta un curso en la modalidad <br />
+    de asesor de alguna o varias materias que imparte el ITAM, al crear una asesoria <br />
+    deberas dar una descripcion y el temario que vas a cubrir, ademas de establecer un <br />
+    costo.
+    <li>Subir multimedia</li>
+    La aplicacion ofrece un espacio dnde puedes subir links a multimedia, ya sea <br />
+    desde ka modalidad de asesor o estudiante, este contenido solo podra ser visto <br />
+    por miembros de la asesoria.
+    <li>Inscribirte a asesorias</li>
+    Desde la modalidad de estudiante podras meterte a cuantas asesorias quieras, <br />
+    siempre y cuando estas existan, esten disponibles y estes dispuesto a pagar.
+    <li>Pagar</li>
+    En la modalidad de estudiante ofrecemos metodos de pago
   </ol>
-  <li></li>
+  <li>Casos de uso</li>
+  Ya fueron descritos en el documento readme
 </ul>
