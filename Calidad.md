@@ -41,3 +41,23 @@ Toda funcionalidad recibira una calificacion discreta del 1 al 3, 1 siendo que n
 </ul>
 ## 8. Suspension criteria and resumption requirements
 No hay criterio por el cual algo sea exepto a pruebas, salvo falta de recursos
+## 9. Test deliverables
+En forma de capturas de pantalla 
+## 10. Testing tasks
+Para probar crearemos un usuario y dentro de la aplicacion llevaremos acabo todas las funcionalidades. Para el inicio de sesion intentaremos acceder con usarios incorrectos y/o contrasenas incorrectas. Siempre las pruebas seran exhaustivas para cada funcionalidad, es decir, vamos a robar los casos extremos.
+Defectos reccurentes
+<ul>
+  <li>Connection timeout</li>
+  <li>Undefined behaviour</li>
+  <li>No se actualiza base de datos</li>
+</ul>
+## 11. Enviromental needs
+Solo usamos una computadora externa y nos metimos a la pagina web y usamos la app desde ahi, no se usaron softwares externos ni hardware especifico para hacer las pruebas, no se necesito equipo extra.
+
+## 12. Responsabilities
+Esteban se encargo de probar el inicio de sesion, Alejandro se encargo de que los botones dentro de la aplicacion fucnionaran correctamente,m mientras que Alan se encargo de la conexion de la aplicacion a la base de datos (SQL) y que esta base de datos funcinara correctamente. Todos los integrantes crearon un usuario y usaron todas las funcionalidades.
+## 13. Staffing and training needs
+El equipo ya contaba con las habilidades necesarias para hacer las pruebas
+## 14.Schedule
+## Risks and contingencies
+Los riesgos son en su mayoria de mal uso de la aplicacion, como subir contenido inapropiado o falso. Riesgos internos son que elinicio de sesion falle y puedas entrar a la cuenta de otros usarios, tambien existe el riesgo de que el pago no se efectue. 
