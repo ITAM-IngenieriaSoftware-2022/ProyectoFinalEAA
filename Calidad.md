@@ -24,9 +24,9 @@ Vamos a probar las siguientes funcionalidades y que interactuen de forma correct
   Multiples altas
 </ol>
 ## 5. Features not to be tested
-La funcionalidad el pago no sera probada
+La funcionalidad el pago no sera probada <br />
 ## 6. Approach
-Usaremos pruebas de regresion que  nos permite acceso a la documentacion de estructuras de datos internas y a los algoritmos utilizados. Este metodo nos va a permitir identificar errores rapidamente. Dados ciertos datos de arranque vamos a monitorear el estado de proyecto en cada etapa hasta que lleguemos a outputs deseados. Ademas haremos pruebas de regresion cada vez que hagamos cambios, probaremos as clases y sus metodos asi como cada boton, esto inmediatamente despues de que este listo. Es decir, no vamos a esperar a que eset toda la aplicacion lista, sino que haremos pruebas modulares, pues de esta forma sabremos que parte de la aplicacion falla y en que momento. Al final haremos pruebas globales, pero solo si los componentes estan fucnionando. En ningun caso seguiremos avanzando si no corre algun cacho del codigo sin importar que ese cacho del codigo no afecte a otras partes, esto porque no queremos que se acumulen errores ni que nos sea complicado encontralos. 
+Usaremos pruebas de regresion que  nos permite acceso a la documentacion de estructuras de datos internas y a los algoritmos utilizados. Este metodo nos va a permitir identificar errores rapidamente. Dados ciertos datos de arranque vamos a monitorear el estado de proyecto en cada etapa hasta que lleguemos a outputs deseados. Ademas haremos pruebas de regresion cada vez que hagamos cambios, probaremos as clases y sus metodos asi como cada boton, esto inmediatamente despues de que este listo. Es decir, no vamos a esperar a que eset toda la aplicacion lista, sino que haremos pruebas modulares, pues de esta forma sabremos que parte de la aplicacion falla y en que momento. Al final haremos pruebas globales, pero solo si los componentes estan fucnionando. En ningun caso seguiremos avanzando si no corre algun cacho del codigo sin importar que ese cacho del codigo no afecte a otras partes, esto porque no queremos que se acumulen errores ni que nos sea complicado encontralos. <br /> 
 ## 7. Item pass/fail criteria
 Toda funcionalidad recibira una calificacion discreta del 1 al 3, 1 siendo que no cumple, 2 siendo satisfactorio y 3 listo para entrega. Se pone atencion a que la funcionalidad corra y sea rapida, si corre pero tarda sera un 2 si no cumple ninguna sera un 1. 
 <ul>
@@ -39,10 +39,15 @@ Toda funcionalidad recibira una calificacion discreta del 1 al 3, 1 siendo que n
   <li>Inscribirse a curso</li>
   Se da 1 si no se puede realizar esta accion, 2 si se puede realizar pero es tardado, o si no prevee casos extremos como inscribirte al mismo curso dos veces (que se le podria atribuir al usuario el error). 
 </ul>
+
 ## 8. Suspension criteria and resumption requirements
+
 No hay criterio por el cual algo sea exepto a pruebas, salvo falta de recursos
+
 ## 9. Test deliverables
+
 En forma de capturas de pantalla 
+
 ## 10. Testing tasks
 Para probar crearemos un usuario y dentro de la aplicacion llevaremos acabo todas las funcionalidades. Para el inicio de sesion intentaremos acceder con usarios incorrectos y/o contrasenas incorrectas. Siempre las pruebas seran exhaustivas para cada funcionalidad, es decir, vamos a robar los casos extremos.
 Defectos reccurentes
@@ -51,6 +56,7 @@ Defectos reccurentes
   <li>Undefined behaviour</li>
   <li>No se actualiza base de datos</li>
 </ul>
+
 ## 11. Enviromental needs
 Solo usamos una computadora externa y nos metimos a la pagina web y usamos la app desde ahi, no se usaron softwares externos ni hardware especifico para hacer las pruebas, no se necesito equipo extra.
 
