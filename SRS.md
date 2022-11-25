@@ -97,7 +97,38 @@ Ejecutable: Google Chrome o Cualquier navegador <br />
 Se utiliza una conexión desde Visual Studio Code hacia el navegador predeterminado del usuario para empezar a correr la aplicación. Además todas las solicitudes hacia la aplicación para ver cursos y agregar cursos los maneja los servicios de Amazon (AWS) <br />
 
 ## 4. Funcionalidades del sistema
+<ol type="1">
+  <li>Inicio de sesion</li>
+  Se le pide al usuario introducir un nombre de usuario y una contrasena. Estos datoa seran guardados en una base de datos. La contrsasena tiene requisitos para asegurar que sea fuerte, es decri, se le pide que tenga numeros y letras mayusuclas y minusculas. En caso de que el usuario no exista en la base de datos se lanza un mensaje de error.
+  <li>Crear asesoria</li>
+  El usuario en la modalidad de asesor elige una o varias materias de las cuales quiere dar clases, esta materia debe existir en la base de datos y se esocge de un dropdownlist. Se deve establecer un precio, un temario y se deeb dar una descripcion.
+  <li>Subir multimedia</li>
+  El asesor puede subir links que dirigen al estudiante a una herramienta externa, esto para que la aplicacion no tenga que almacenar dcoumentos.
+  <li>Inscripcion a cursos</li>
+  En la modalidad de estudiante esocges una materia y te aparecen opciones de asesorias disponibles, el estudiante envia una solicitud
+  <li>Pagar</li>
+  CUndo un estudiante sea aceptado a un curso se debe efectuar el pago o se le dara de baja
+</ol>
 
+## 5. Otros requerrimientos no funcionales
+<ol>
+  <li>Requerrimientos de desempeno</li>
+  Se necesita conexion a internet para tener acceso a la base de datos
+  <li>Safety requirements</li>
+  Por seguridad la sesion se cierra automaticamente despues de 10 minutos de inactividad, <br />
+  la comunicacion entre alumnos es externa para evitar mal uso de la aplicacion. El temario <br />
+  que suba el asesor esta sujeto a revision por los administradores, al igual que cualquier <br />
+  documento que se suba a la plataforma
+  <li>Security requirements</li>
+  Se habilitara verificacion de dos pasos
+  <li>SQA</li>
+  La aplicacion ofrece un ambiente seguro, eficaz, viable y comodo. <br />
+  Todas las funcionalidades son faciles de usar y al alcanze de todo <br />
+  usuario. Se prioriza la rapidez con la cual se interactua con la <br />
+  aplicacion y otros usuarios. La informacion que se comparte en la <br />
+  aplicacion es de confianza o sera removida. La aplicacion es facil <br />
+  de actalizar, mantener y reparar.
+</ol>
 
 
   
