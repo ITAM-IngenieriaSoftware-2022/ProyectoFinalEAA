@@ -7,7 +7,7 @@
   <li>Otros requerrimientos no funcionales</li>
 </ol>
 
-## Introduccion
+## 1. Introduccion
 <ul>
   <li>Objetivo</li>
   Se explican los requerrimientos del sistema de software que son necesarios <br />
@@ -30,4 +30,22 @@
   asesorias sobre materias ajenas al ITAM.
   <li>Referencias</li>
   IEEE template for software requirement specification.
+</ul>
+
+## 2. Descripcion general
+<ul>
+  <li>Prespectiva del producto</li>
+  La aplicacion es para facilitar la vida a los estudiantes del ITAM, tanto a los que buscan <br />
+  aprender como a los que buscan impartir conocimiento. La aplicacion ofrece un espacio seguro <br />
+  para adquirir conocimientos y generar dinero, la interfaz es facil de usar y cualquier alumno <br />
+  tiene acceso a esta herramienta, ya que la trasnparencia es vital toda asesoria muestra el <br />
+  contenido que cubre y su costo. Para que sea facil de usar la aplicacion, desde tu misma <br />
+  cuenta puedes dar asesorias o tomarlas.
+  <li>Funcionalidades</li>
+  <ol>
+    <li>Inicio de sesion</li>
+    dd
+    <li></li>
+  </ol>
+  <li></li>
 </ul>
