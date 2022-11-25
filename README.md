@@ -7,7 +7,12 @@ Esta aplicacion fue desarrollada para poder optimizar la forma en la que se dan 
 ### Mostramos tres casos de uso: <br />
 Caso de uso para inicio de sesion:
 ![IMG-0246](https://user-images.githubusercontent.com/116897605/203902085-fad0031e-f9a2-4a26-a759-155332abfe08.jpg)
-<br /> Caso de uso para subir multimedia: <br /> Caso de uso para inscribirte a asesorias: <br />
+<br /> Caso de uso para subir multimedia: 
+![IMG-0247](https://user-images.githubusercontent.com/116897605/203981660-37504f4b-ba34-4abb-8ac7-23b6dfa91fcb.jpg)
+
+<br /> Caso de uso para inscribirte a asesorias: <br />
+
+![IMG-0248](https://user-images.githubusercontent.com/116897605/203981782-5e5ebc2a-5b0b-4734-8c09-d009416ae511.jpg)
 
 ### Plan de calidad
 Nuestro plan de calidad se basa en la norma IEEE 829 (aprobacion pendiente), esto porque buscamos garantizar a nuestros clientes productos de alta calidad y al mismo tiempo atender sus necesidades.
