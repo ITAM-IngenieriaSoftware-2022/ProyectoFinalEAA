@@ -63,5 +63,21 @@
     En la modalidad de estudiante ofrecemos metodos de pago
   </ol>
   <li>Casos de uso</li>
-  Ya fueron descritos en el documento readme
+Crear: Contiene los ids de los usuarios y de los cursos.
+Usuario: Contiene la id del usuario junto con su nombre, teléfono y correo.
+Inscrito: Contiene los ids de los usuarios y de los cursos.
+Curso: Contiene la id del curso junto con su nombre, materia, precio.
+Temario: Contiene la id del temario junto con su nombre y la id del curso.
+Multimedia: Contiene la id del multimedia, su nombre, su link junto con la id del temario y la id del curso
+  ![Imagen1](https://user-images.githubusercontent.com/116897605/203907008-d37903c0-4b84-4b17-adaa-ac3425697cc8.png)
+  <li>Operating enviroment</li>
+  Se uso el framework django que ofrece python y so hosteo en una web.
+  <li>Design and implementation constraints</li>
+    <ol>
+      <li>Tiene que seguir siendo desarrollada en Django ya que usamos muchas características del lenguaje para diseñar el proyecto</li>
+      <li>La IP tiene que ser redirigida a un host externo y tiene que tener la capacidad mínima de 10 gbs para la base de datos.</li>
+      <li>Se recomendaría tener pocos cursos agregados para que los tiempos de espera sean adecuados, esto debido a la forma en que esta hecho la aplicación, optimiza el diseño y la forma grafica a costa de la velocidad de respuesta.</li>
+   </ol>
+  <li>Supuestos y dependencias</li>
+ Esta aplicación no esta asociada con el ITAM, los cursos son impartidos por alumnos en salones previamente pedidos a la institución.
 </ul>
